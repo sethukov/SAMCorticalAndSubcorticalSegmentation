@@ -1,6 +1,7 @@
 Brain segmentation using Meta's Segment Anything Model. 
 
 # Create an environment called deep
+conda activate deep 
 
 # Installed packages
  conda install anaconda::opencv
